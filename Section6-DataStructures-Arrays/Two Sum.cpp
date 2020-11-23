@@ -14,6 +14,5 @@ public:
             seen.insert(make_pair(nums[i], i));
         }
         return answer;
-        
     }
 };
