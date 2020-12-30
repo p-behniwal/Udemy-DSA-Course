@@ -1,0 +1,3 @@
+/*
+Trivial hash table check
+*/
