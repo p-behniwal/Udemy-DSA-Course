@@ -1,6 +1,9 @@
 /*
 Simple hash search for occurence
 */
+#include "unordered_map"
+#include "vector"
+using namespace std;
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
